@@ -1,0 +1,11 @@
+id: cd54e672-392d-4e1f-af84-c1ea39ac33a0
+type: state
+annotations:
+- namespace: c4modeler
+  name: position
+  value:
+    87069c1a-ab38-42fc-8274-b26f7705bfc4:
+      x: 87.5
+      y: 175
+name: browse
+description: Description for new-state
